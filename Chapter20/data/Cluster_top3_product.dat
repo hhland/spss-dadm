@@ -1,0 +1,91 @@
+ClusterNo	Filmname	Style	Product_ID	Rank_in_cluster
+X=0, Y=0	The Buppets	Children 	1060	1
+X=0, Y=0	Rebel without a Clue	Drama	1042	2
+X=0, Y=0	Bogus the Clown	Children 	1062	3
+X=0, Y=1	This was Tinny Sap	Comedy	1048	1
+X=0, Y=2	Bogus the Clown	Children 	1062	1
+X=0, Y=2	The French Patient	Drama	1050	2
+X=0, Y=3	Mary Poppout	Musical	1030	1
+X=0, Y=3	The Buppets	Children 	1060	2
+X=0, Y=3	The Buppets go to London	Children 	1061	3
+X=0, Y=5	The Buppets	Children 	1060	1
+X=0, Y=5	Rebel without a Clue	Drama	1042	2
+X=0, Y=5	Bogus the Clown	Children 	1062	3
+X=1, Y=1	The Buppets	Children 	1060	1
+X=1, Y=1	Rebel without a Clue	Drama	1042	2
+X=1, Y=1	Bogus the Clown	Children 	1062	3
+X=1, Y=2	The Buppets	Children 	1060	1
+X=1, Y=2	Rebel without a Clue	Drama	1042	2
+X=1, Y=2	Bogus the Clown	Children 	1062	3
+X=1, Y=3	True Salt	Western	1009	1
+X=1, Y=3	Low Plains Office Worker	Western	1007	2
+X=1, Y=3	LighteningBall	Adventure	1035	3
+X=1, Y=5	Bogus the Clown	Children 	1062	1
+X=1, Y=5	Dracula	Horror	1025	2
+X=1, Y=5	Helicoptor	Comedy	1021	3
+X=2, Y=0	Bogus the Clown	Children 	1062	1
+X=2, Y=0	The Buppets go to London	Children 	1061	2
+X=2, Y=0	TheatreBus	Western	1006	3
+X=2, Y=1	The Buppets	Children 	1060	1
+X=2, Y=1	Rebel without a Clue	Drama	1042	2
+X=2, Y=1	Bogus the Clown	Children 	1062	3
+X=2, Y=2	Psychic	Horror	1024	1
+X=2, Y=2	Dracula	Horror	1025	2
+X=2, Y=2	Pheasant Soup	Comedy	1017	3
+X=2, Y=3	Psychic	Horror	1024	1
+X=2, Y=3	Dracula	Horror	1025	2
+X=2, Y=3	The Nice the not so nice and the visually challenged	Western	1003	3
+X=2, Y=4	The Buppets	Children 	1060	1
+X=2, Y=4	The Buppets go to London	Children 	1061	2
+X=2, Y=4	Bogus the Clown	Children 	1062	3
+X=2, Y=5	To Kill a Canary	Drama	1041	1
+X=2, Y=5	Rebel without a Clue	Drama	1042	2
+X=2, Y=5	The French Patient	Drama	1050	3
+X=3, Y=0	Low Midnight	Western	1004	1
+X=3, Y=1	The Buppets	Children 	1060	1
+X=3, Y=1	Rebel without a Clue	Drama	1042	2
+X=3, Y=1	Bogus the Clown	Children 	1062	3
+X=3, Y=2	Destroyer	Sci-Fi	1053	1
+X=3, Y=2	Dracula	Horror	1025	2
+X=3, Y=2	The 5 by 5	Sci-Fi	1051	3
+X=3, Y=3	Big things With Teeth	Sci-Fi	1054	1
+X=3, Y=3	Dracula	Horror	1025	2
+X=3, Y=4	The Buppets go to London	Children 	1061	1
+X=3, Y=4	Cryin in the Rain	Musical	1031	2
+X=3, Y=4	The Buppets	Children 	1060	3
+X=3, Y=5	Rebel without a Clue	Drama	1042	1
+X=3, Y=5	The French Patient	Drama	1050	2
+X=3, Y=5	LighteningBall	Adventure	1035	3
+X=4, Y=0	Wahey Monty!	Comedy	1045	1
+X=4, Y=0	Bogus the Clown	Children 	1062	2
+X=4, Y=1	The Buppets	Children 	1060	1
+X=4, Y=1	Fourth of July	Sci-Fi	1052	2
+X=4, Y=1	Bogus the Clown	Children 	1062	3
+X=4, Y=2	Big things With Teeth	Sci-Fi	1054	1
+X=4, Y=2	Hunter	Sci-Fi	1057	2
+X=4, Y=2	Big things With Teeth 2	Sci-Fi	1055	3
+X=4, Y=3	Hunter	Sci-Fi	1057	1
+X=4, Y=3	The Tempest	Sci-Fi	1022	2
+X=4, Y=3	The Buppets	Children 	1060	3
+X=4, Y=4	The Buppets	Children 	1060	1
+X=4, Y=4	Rebel without a Clue	Drama	1042	2
+X=4, Y=4	Bogus the Clown	Children 	1062	3
+X=4, Y=5	Brian Who?	Comedy	1044	1
+X=4, Y=5	Bogus the Clown	Children 	1062	2
+X=4, Y=5	SpookBusters	Comedy	1049	3
+X=5, Y=0	TheatreBus	Western	1006	1
+X=5, Y=0	The Fourth Man	Adventure	1034	2
+X=5, Y=0	The Nine Rules	Adventure	1037	3
+X=5, Y=1	The Buppets	Children 	1060	1
+X=5, Y=1	The Buppets go to London	Children 	1061	2
+X=5, Y=1	Bogus the Clown	Children 	1062	3
+X=5, Y=2	The Buppets go to London	Children 	1061	1
+X=5, Y=2	The Tempest	Sci-Fi	1022	2
+X=5, Y=2	Absolute Memory	Sci-Fi	1058	3
+X=5, Y=3	Pheasant Soup	Comedy	1017	1
+X=5, Y=4	The Tempest	Sci-Fi	1022	1
+X=5, Y=4	The Buppets	Children 	1060	2
+X=5, Y=4	Pheasant Soup	Comedy	1017	3
+X=5, Y=5	Fetche la Vache	Comedy	1043	1
+X=5, Y=5	Dr OddBloke or: What bomb? Where?	Comedy	1013	2
+X=5, Y=5	The Buppets go to London	Children 	1061	3

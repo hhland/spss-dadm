@@ -1,0 +1,16 @@
+ClusterNo,Page,rank_in_cluster
+聚类-1,/humour/comedy.htm,1
+聚类-1,/sci_fi/scifi.htm,2
+聚类-1,/children/children.htm,3
+聚类-2,/humour/comedy.htm,1
+聚类-2,/children/children.htm,2
+聚类-2,/western/western.htm,3
+聚类-3,/humour/comedy.htm,1
+聚类-3,/sci_fi/scifi.htm,2
+聚类-3,/children/children.htm,3
+聚类-4,/humour/comedy.htm,1
+聚类-4,/children/children.htm,2
+聚类-4,/western/western.htm,3
+聚类-5,/sci_fi/scifi.htm,1
+聚类-5,/humour/comedy.htm,2
+聚类-5,/musical/musical.htm,3

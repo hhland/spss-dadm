@@ -1,0 +1,2 @@
+page1,page2,page3,time_gap1,time_gap2
+"/sci_fi/godzilla.htm","/drama/theipfile.htm","main.htm",360,540

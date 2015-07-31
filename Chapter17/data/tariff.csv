@@ -1,0 +1,6 @@
+Tariff,Fixed_cost,Free_mins,Peak_rate,OffPeak_rate,Weekend_rate,International_rate
+"Play 100",9.990000,100,25,5,5,40
+"Play 300",12.990000,300,25,2,2,40
+"CAT 50",13.900000,50,15,5,5,30
+"CAT 100",17.500000,100,15,5,5,30
+"CAT 200",25.000000,200,10,5,5,30

@@ -1,0 +1,2 @@
+page1,page2,page3,time_gap1,time_gap2
+/comedy/comedy.htm,main.htm,/western/western.htm,780,340
