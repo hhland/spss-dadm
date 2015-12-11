@@ -1,0 +1,79 @@
+<STYLE>
+
+   .bodyStyle  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #ffffff;
+		   color : #000000;
+   }
+		   
+
+   .rowHeaderStyle  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #808080;
+		   color : #ffffff;
+   }
+		   
+
+   .colHeaderStyle  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #808080;
+		   color : #ffffff;
+   }
+		   
+
+   .blkTextWhiteBk  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-weight : bold;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #ffffff;
+		   color : #000000;
+   }
+		   
+
+   .top  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-weight : bold;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #ffffff;
+		   color : #ff0000;
+   }
+		   
+
+   .bottom  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-weight : bold;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #ffffff;
+		   color : #00ff00;
+   }
+		   
+
+   .selected  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-weight : bold;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #ffffff;
+		   color : #ff0000;
+   }
+		   
+
+   .unselected  {
+		   font-family: Verdana, arial, geneva, helvetica, sans-serif;
+		   font-weight : bold;
+		   font-style : normal;
+		   font-size: 100%;
+		   background-color: #ffffff;
+		   color : #000000;
+   }
+		   
+</STYLE>
